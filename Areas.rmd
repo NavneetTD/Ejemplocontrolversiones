@@ -16,12 +16,12 @@ r<- 0.5
 area<- pi*r^2
 ```
 
-## Including Plots
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+##   Area cuadrado
+
+lado <-2
+area <- lado^2
+
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
